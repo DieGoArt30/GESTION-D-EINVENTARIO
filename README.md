@@ -1,4 +1,4 @@
-# GESTION-D-EINVENTARIO
+# GESTION-DE-INVENTARIO
 
 # Caso de Estudio Genérico: Creación de aplicación web con persistencia y autenticación.
 ## Selecciona alguno de los siguientes proyectos e implmente las tareas a realizar para demostrar tus conocmientos de las diferentes tecnologías que debe dominar un desarrollador python con Django:

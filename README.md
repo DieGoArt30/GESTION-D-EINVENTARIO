@@ -38,10 +38,10 @@
 - Implementar vistas utilizando tanto la API funcional como las clases basadas en vistas (CBVs) de Django y Django Rest Framework.
 Configurar correctamente las URLs para acceder a las vistas y a la API.
 
-##Templates:
+## Templates:
 - Desarrollar templates Django para la renderización de HTML en el frontend, utilizando la sintaxis de templates de Django para mostrar datos dinámicos.
 
-##Documentación:
+## Documentación:
 - Incluir un archivo README.md en el proyecto que documente cómo instalar, configurar y ejecutar el proyecto, así como una descripción general de la estructura del proyecto y la API.
 
 ## Criterios de Aceptación
